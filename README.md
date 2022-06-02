@@ -16,10 +16,10 @@
 
 
 
-<h3>Main Languages <img align='center' width='25px' src="https://user-images.githubusercontent.com/38537285/154124084-14d4e935-083d-4c18-85e5-62f1340c56fa.gif" />
+<h3>Main Languages <img align='center' width='2%' src="https://user-images.githubusercontent.com/38537285/154124084-14d4e935-083d-4c18-85e5-62f1340c56fa.gif" />
 </h3>
 
-<!-- <img position="absolue" align="right" height='350px' src="https://user-images.githubusercontent.com/38537285/154122540-21964481-fcd0-470b-aa22-40baf5ea331d.gif" /> -->
+<!-- <img position="absolue" align="right" src="https://user-images.githubusercontent.com/38537285/154122540-21964481-fcd0-470b-aa22-40baf5ea331d.gif" /> -->
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -27,7 +27,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 <div align="left">
-  <h3>Frontend   <img align='center' width='25px' src="https://user-images.githubusercontent.com/38537285/154123308-74a1b320-4f44-4b28-a49c-a0b496cd2f9f.gif" />
+  <h3>Frontend   <img align='center' width='2%' src="https://user-images.githubusercontent.com/38537285/154123308-74a1b320-4f44-4b28-a49c-a0b496cd2f9f.gif" />
 </h3>
 
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -39,7 +39,7 @@
 
 
 <div align="left">
-   <h3>Backend   <img align='center' width='25px' src="https://user-images.githubusercontent.com/38537285/154124398-c7f70c29-ae23-4212-a76e-e0783c2ba0dc.gif" />
+   <h3>Backend   <img align='center' width='2%' src="https://user-images.githubusercontent.com/38537285/154124398-c7f70c29-ae23-4212-a76e-e0783c2ba0dc.gif" />
   </h3>
 
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -49,7 +49,7 @@
 </div>
 
 <div align="left"> 
-   <h3>Database <img align='center' width='25px' src="https://user-images.githubusercontent.com/38537285/154124567-0d27fcd2-9088-4435-8a91-226cc39b8b79.gif" />
+   <h3>Database <img align='center' width='2%' src="https://user-images.githubusercontent.com/38537285/154124567-0d27fcd2-9088-4435-8a91-226cc39b8b79.gif" />
   </h3>
 
 
